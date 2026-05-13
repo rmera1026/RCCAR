@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# STM32CubeIDE generated build output
+**/Debug/
+**/Release/
+
+# Compiler/linker artifacts (in case output goes outside Debug/Release)
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.srec
+
+# Eclipse/CubeIDE local metadata
+**/.settings/
+
+# User-specific launch configurations (keep only if intentionally shared)
+*.launch
+*.launch.*
+
+# VS Code local workspace settings (optional)
+.vscode/
