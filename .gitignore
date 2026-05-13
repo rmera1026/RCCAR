@@ -22,7 +22,6 @@
 
 # User-specific launch configurations (keep only if intentionally shared)
 *.launch
-*.launch.*
 
 # VS Code local workspace settings (optional)
 .vscode/
